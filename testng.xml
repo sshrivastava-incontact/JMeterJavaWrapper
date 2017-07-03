@@ -1,0 +1,28 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<!-- 
+<suite name="JmeterTest">
+
+	<test name="AWS">
+		<classes>
+			<class name="com.incontact.test.wrapper.jmeter.Configuration.JMeterConfigurator" />
+			<class name="com.incontact.test.configurations.TestConfigurationReader" />
+			<class name="com.incontact.test.testsuite.jmeter.TestSuite_UserActionsOnWebEmulation" />
+		</classes>
+	</test>
+</suite>
+ -->
+ 
+<suite name="JmeterTest">
+
+	<test name="AWS">
+		<classes>
+			<class name="com.incontact.test.wrapper.jmeter.Configuration.JMeterConfigurator" />
+			<class name="com.incontact.test.configurations.TestConfigurationReader" />
+			<class name="com.incontact.test.testsuite.jmeter.TestSuite_AwsLambdaApiGateway" />
+			<class name="com.incontact.test.testsuite.jmeter.TestSuite_UserActionsOnWebEmulation" />
+			<class name="com.incontact.test.testsuite.jmeter.TestSuite_RestApiAccess" />
+		</classes>
+	</test>
+</suite>
+ 

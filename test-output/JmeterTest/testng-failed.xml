@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [JmeterTest]">
+  <test name="AWS(failed)">
+    <classes>
+      <class name="com.incontact.test.testsuite.jmeter.TestSuite_AwsLambdaApiGateway">
+        <methods>
+          <include name="TestCase2"/>
+        </methods>
+      </class> <!-- com.incontact.test.testsuite.jmeter.TestSuite_AwsLambdaApiGateway -->
+    </classes>
+  </test> <!-- AWS(failed) -->
+</suite> <!-- Failed suite [JmeterTest] -->

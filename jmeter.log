@@ -1,0 +1,14 @@
+2017/04/19 15:49:42 INFO  - jmeter.util.JMeterUtils: Setting Locale to en_US 
+2017/04/19 15:49:42 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
+2017/04/19 15:49:42 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
+2017/04/19 15:49:42 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
+2017/04/19 15:49:42 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
+2017/04/19 15:49:42 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser 
+2017/04/19 15:49:42 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser 
+2017/04/19 15:49:42 INFO  - jmeter.protocol.http.sampler.HTTPHCAbstractImpl: Local host = SAMEERS-T460 
+2017/04/19 15:49:42 INFO  - jmeter.protocol.http.sampler.HTTPHC4Impl: HTTP request retry count = 0 
+2017/04/19 15:49:42 INFO  - jmeter.samplers.SampleResult: Note: Sample TimeStamps are START times 
+2017/04/19 15:49:42 INFO  - jmeter.samplers.SampleResult: sampleresult.default.encoding is set to ISO-8859-1 
+2017/04/19 15:49:42 INFO  - jmeter.samplers.SampleResult: sampleresult.useNanoTime=true 
+2017/04/19 15:49:42 INFO  - jmeter.samplers.SampleResult: sampleresult.nanoThreadSleep=5000 
+2017/04/19 15:49:42 INFO  - jmeter.protocol.http.sampler.LazySchemeSocketFactory: Setting up HTTPS TrustAll Socket Factory 
